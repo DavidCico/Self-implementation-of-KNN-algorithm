@@ -68,7 +68,7 @@ It will then open your default web browser to this URL.
 For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>.
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/DavidCico/Self-implementation-of-a-backpropagation-algorithm/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/DavidCico/Self-implementation-of-KNN-algorithm/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -78,4 +78,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **David Cicoria** - *Initial work* - [DavidCico](https://github.com/DavidCico)
 
-See also the list of [contributors](https://github.com/DavidCico/Self-implementation-of-a-backpropagation-algorithm/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/DavidCico/Self-implementation-of-KNN-algorithm/graphs/contributors) who participated in this project.
