@@ -42,7 +42,6 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Iris_data_study_classification.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network, with application on the wheat seeds dataset.</p> 
 </ul>
 
 ### Running the files
