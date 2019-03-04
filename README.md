@@ -36,9 +36,11 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>My_KNN.py</em>" is the Python implementation of the k-nearest neighbors model for classification or regression problem.</p></li>
 
-<li><p align="justify">"<em>Wheat_seeds_study.py"</em> is the main Python script, calling the different functions from the scripts above, to perform a classification analysis of the wheat seeds, with the implemented backpropagation model.</p></li>
+<li><p align="justify">"<em>DistanceType.py</em>" is the Python script, in which the different distances, that can be used in the KNN algorithm, are defined.</p></li>
 
-<li><p align="justify">"<em>Wheat_seeds_study.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
+<li><p align="justify">"<em>Iris_data_study_classification.py"</em> is the main Python script, calling the different functions from the scripts above, to perform a classification analysis on the <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">Iris flower dataset</a>, with the implemented KNN model.</p></li>
+
+<li><p align="justify">"<em>Iris_data_study_classification.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
 
 <li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network, with application on the wheat seeds dataset.</p> 
 </ul>
