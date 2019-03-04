@@ -50,11 +50,11 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 ### Running the files
 
-The different "<em>.py</em>" files need to be placed in the same folder for the main script to be run. The code is then ready to be used on the wheat seeds dataset and just requires running the following command:
+The different "<em>.py</em>" files need to be placed in the same folder for the main scripts to be run. The code is then ready to be used on the Iris dataset for instance, and just requires running the following command:
 
-    python Wheat_seeds_study.py
+    python Iris_data_study_classification.py
 
-<p align="justify">The notebook can be <b>directly opened on GitHub</b>. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
+<p align="justify">The notebooks can be <b>directly opened on GitHub</b>. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
 
     jupyter notebook
 
