@@ -42,6 +42,10 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Iris_data_study_classification.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
 
+<li><p align="justify">"<em>Abalone_case_study_regression.py"</em> is the main Python script, calling the different functions from the scripts above, to perform a regression analysis on the <a href="https://archive.ics.uci.edu/ml/datasets/abalone">UCI Abalone dataset</a>, with the implemented KNN model. In this dataset, we are trying to predict the age of the abalones based on their physical features.</p></li>
+
+<li><p align="justify">"<em>Abalone_case_study_regression.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
+
 </ul>
 
 ### Running the files
