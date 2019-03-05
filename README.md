@@ -1,5 +1,5 @@
 # Self-implementation-of-KNN-algorithm
-<p align="justify">The current repository contains different scripts, in which functions are implemented in Python from scratch, to carry out a classification problem using a backpropagation algorithm.</p>
+<p align="justify">The current repository contains different scripts, in which functions are implemented in Python from scratch, to carry out a classification or regression problem using a <em>k</em>-nearest neighbors algorithm.</p>
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Performance_assessment.py</em>" is a Python script in which accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way. The Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Performance_assessment.ipynb">Performance_assessment.ipynb</a> is available for more details.</p></li>
 
-<li><p align="justify">"<em>My_KNN.py</em>" is the Python implementation of the k-nearest neighbors model for classification or regression problem.</p></li>
+<li><p align="justify">"<em>My_KNN.py</em>" is the Python implementation of the <em>k</em>-nearest neighbors model for classification or regression problem.</p></li>
 
 <li><p align="justify">"<em>DistanceType.py</em>" is the Python script, in which the different distances, that can be used in the KNN algorithm, are defined.</p></li>
 
