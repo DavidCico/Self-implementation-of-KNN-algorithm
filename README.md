@@ -1,5 +1,5 @@
 # Self-implementation-of-KNN-algorithm
-<p align="justify">The current repository contains different scripts, in which functions are implemented in Python from scratch, to carry out a classification or regression problem using a <em>k</em>-nearest neighbors algorithm.</p>
+<p align="justify">The current repository contains different scripts, in which functions are implemented in Python from scratch, to carry out a classification or regression problem using a <em>k</em>-nearest neighbors (KNN) algorithm.</p>
 
 ## Getting Started
 
